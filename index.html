@@ -70,6 +70,70 @@
 							</ul>
 						</section>
 				</section>
+				<section>
+					<section>
+						<h3>SciPy</h3>
+						<ul class="r-fit-text">
+							<li>A Python-based ecosystem of open-source software for mathematics, science, and engineering.
+							<li>It includes several packages including:
+								<ul>
+									<li><a href="http://numpy.org/">NumPy</a>
+									<li><a href="https://scipy.org/scipylib/index.html">SciPy Library</a> - a fundemental library for scientific computing
+									<li><a href="http://matplotlib.org/">Matplotlib</a> - a comprehensive 2-D visualization library
+									<li><a href="http://ipython.org/">IPython</a> - an enhanced interactive console
+										<ul>
+											<li>You already have seen this with Jupyter Notebooks
+										</ul>
+									<li><a href="http://sympy.org/">SymPy</a> - a package for symbolic math
+									<li><a href="http://pandas.pydata.org/">Pandas</a> - a dataframe framework for Python
+								</ul>
+						</ul>
+					</section>
+					<section>
+						<h3> Matplotlib </h3>
+						<div style="float:left; width:60%">
+							<pre class="python"><code>
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(0, 2, 100)
+
+plt.plot(x, x, label='linear')
+plt.plot(x, x**2, label='quadratic')
+plt.plot(x, x**3, label='cubic')
+plt.xlabel('x label')
+plt.ylabel('y label')
+plt.title("Simple Plot")
+plt.legend()
+							</code></pre>
+						</div>
+						<div style"float:right; width:40%">
+							<img src="static\images\sphx_glr_usage_004.webp" width="40%">
+						</div>
+					</section>
+					<section>
+						<h3>Matplotlib Resources</h3>
+						<p class="r-fit-text">
+							Matplotlib is not a subject to be lectured, it is much better to learn by example and doing, so here are some
+							links below to get you started</p>
+						<ul>
+							<li><a href="https://matplotlib.org/stable/contents.html" target="_blank">Matplotlib Documentation</a>
+							<li><a href="https://matplotlib.org/stable/tutorials/index.html" target="_blank">Tutorials</a>
+							<li><a href="https://matplotlib.org/stable/gallery/index.html" terget="_blank">Examples</a>
+						</ul>
+						<p class="r-fit-text">Advice: find something that you like and alter it rather than trying to do from scratch</p>
+					</section>
+					<section>
+						<h3>Matplotlib in Jupyter Notebooks</h3>
+						<p class="r-fit-text">Matplotlib can be embedded in Jupyter Notebooks, one needs to add the following:</p>
+						<img src="static/images/matplotlib_notebook.PNG">
+					</section>
+					<section>
+						<h3>SymPy</h3>
+						<img src="static/images/sympy_notebook.PNG">
+					</section>
+				</section>
+
 		  </div>
 		</div>
 
