@@ -2,7 +2,7 @@
 
 ## This is a NumPy and SciPy lecture for the Modern Programming for Data Analytics Course
 
-You can view this presentation at: [https://cmu-ms-das-modern-programming-mini.github.io/NumPyandSciPy/](https://cmu-ms-das-modern-programming-mini.github.io/NumPyandSciPy/)
+You can view this presentation at: [https://cmu-ms-das-modern-programming-mini.github.io/NumpyAndScipy/](https://cmu-ms-das-modern-programming-mini.github.io/NumpyAndScipy/)
 The presentation is created with reveal.js
 
 The NumPy Examples Notebook can be accessed at: https://mybinder.org/v2/gh/CMU-MS-DAS-Modern-Programming-Mini/NumpyAndScipy/d2ead74969f47ba56500bc27c8dd8f475f8f9cc9
