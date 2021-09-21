@@ -5,9 +5,9 @@
 You can view this presentation at: [https://cmu-ms-das-modern-programming-mini.github.io/NumpyAndScipy/](https://cmu-ms-das-modern-programming-mini.github.io/NumpyAndScipy/)
 The presentation is created with reveal.js
 
-The NumPy Examples Notebook can be accessed at: https://mybinder.org/v2/gh/CMU-MS-DAS-Modern-Programming-Mini/NumpyAndScipy/d2ead74969f47ba56500bc27c8dd8f475f8f9cc9
+The NumPy Examples Notebook can be accessed at: https://mybinder.org/v2/gh/CMU-MS-DAS-Modern-Programming-Mini/NumpyAndScipy/main?filepath=static%2Fnotebooks%2FNumPy%20Examples.ipynb
 
-
+The SciPy Examples Notebook can be accessed at: https://mybinder.org/v2/gh/CMU-MS-DAS-Modern-Programming-Mini/NumpyAndScipy/main?filepath=static%2Fnotebooks%2FSciPy%20Examples.ipynb
 
 ## reveal.js
 
